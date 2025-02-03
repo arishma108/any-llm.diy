@@ -1,5 +1,6 @@
 #Fine-tuning a large language model can be easy as...
 
-<video src='https://github.com/arishma108/arishma108/blob/main/assets/LLM-Fine-tuning.mp4' width="100%" height="100%"></video>
+https://github.com/user-attachments/assets/ad68c3fd-7383-40d5-b721-cdec9ffc5c8e
+
 
 
